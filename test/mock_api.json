@@ -1,0 +1,73 @@
+{ 
+  "meetings": [
+    {
+      "description": "",
+      "end_time": 1509377336.158,
+      "is_complete": true,
+      "meeting_key": "PCXY94E2BZ",
+      "participants": [
+        "QDYIGVQV20",
+        "B3JVUMWQIV",
+        "IX8FUMKZBV",
+        "OKIV8ZXNSX"
+      ],
+      "project_key": "WDEDA9LJOQ",
+      "start_time": 1509374942.487,
+      "uuid": "974f27930a8166bd_1509374942479"
+    },
+    {
+      "description": "",
+      "end_time": 1509398707.489,
+      "is_complete": true,
+      "meeting_key": "KW8FIGDQMC",
+      "participants": [
+        "TX1WD4759P",
+        "4FNO62UHK8",
+        "OKIV8ZXNSX"
+      ],
+      "project_key": "WDEDA9LJOQ",
+      "start_time": 1509396584.822,
+      "uuid": "67a2baba654c400a_1509396584813"
+    }
+  ],
+
+  "time": [
+    {
+      "meeting": "PCXY94E2BZ",
+      "data": {
+        "B3JVUMWQIV": 310,
+        "IX8FUMKZBV": 242,
+        "OKIV8ZXNSX": 419,
+        "QDYIGVQV20": 304
+      }
+    },
+    {
+      "meeting": "KW8FIGDQMC",
+      "data": {
+        "4FNO62UHK8": 110,
+        "OKIV8ZXNSX": 915,
+        "TX1WD4759P": 394
+      }
+    }
+  ],
+
+  "turns": [
+    {
+      "meeting": "PCXY94E2BZ",
+      "data": {
+        "B3JVUMWQIV": 43,
+        "IX8FUMKZBV": 39,
+        "OKIV8ZXNSX": 52,
+        "QDYIGVQV20": 52
+      }
+    },
+    {
+      "meeting": "KW8FIGDQMC",
+      "data": {
+        "4FNO62UHK8": 20,
+        "OKIV8ZXNSX": 50,
+        "TX1WD4759P": 42
+      }
+    }
+  ]
+}
