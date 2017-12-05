@@ -1,4 +1,20 @@
 { 
+  "recent": {
+    "description": "",
+    "end_time": 1509377336.158,
+    "is_complete": true,
+    "meeting_key": "PCXY94E2BZ",
+    "participants": [
+      "QDYIGVQV20",
+      "B3JVUMWQIV",
+      "IX8FUMKZBV",
+      "OKIV8ZXNSX"
+    ],
+    "project_key": "WDEDA9LJOQ",
+    "start_time": 1509374942.487,
+    "uuid": "974f27930a8166bd_1509374942479"
+  },
+
   "meetings": [
     {
       "description": "",
@@ -69,5 +85,13 @@
         "TX1WD4759P": 42
       }
     }
-  ]
+  ],
+
+  "stats": {
+    "meetingCount": 2,
+    "participantCount": 7,
+    "speakingTime": 8709,
+    "turnsTaken": 430
+  }
+
 }

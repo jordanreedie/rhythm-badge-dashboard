@@ -1,0 +1,79 @@
+<!-- Aggregate statistics for meetings -->
+<div class="row" ng-controller="DashCtrl">
+  <div class="col-lg-3 col-md-6 col-xs-12">
+    <rd-widget>
+      <rd-widget-body>
+        <div class="widget-icon green pull-left">
+          <i class="fa fa-users"></i>
+        </div>
+        <div class="title">{{userCount}}</div>
+        <div class="comment">Users</div>
+      </rd-widget-body>
+    </rd-widget>
+  </div>
+  <div class="col-lg-3 col-md-6 col-xs-12">
+    <rd-widget>
+      <rd-widget-body>
+        <div class="widget-icon red pull-left">
+          <i class="fa fa-tasks"></i>
+        </div>
+        <div class="title">{{meetingCount}}</div>
+        <div class="comment">Meetings</div>
+      </rd-widget-body>
+    </rd-widget>
+  </div>
+  <div class="col-lg-3 col-md-6 col-xs-12">
+    <rd-widget>
+      <rd-widget-body>
+        <div class="widget-icon orange pull-left">
+          <i class="fa fa-sitemap"></i>
+        </div>
+        <div class="title">{{totalSpeakingTime}} </div>
+        <div class="comment">Minutes Spoken</div>
+      </rd-widget-body>
+    </rd-widget>
+  </div>
+  <div class="col-lg-3 col-md-6 col-xs-12">
+    <rd-widget>
+      <rd-widget-body>
+        <div class="widget-icon blue pull-left">
+          <i class="fa fa-support"></i>
+        </div>
+        <div class="title">{{totalTurnsTaken}}</div>
+        <div class="comment">Turns Taken</div>
+      </rd-widget-body>
+    </rd-widget>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-12">
+    Data for most recent meeting:
+  </div>
+</div>
+
+<div class="row" ng-controller="MeetingCtrl">
+  <div class="col-lg-6 col-xs-12">
+    <rd-widget>
+      <rd-widget-header icon="fa-tasks" title="Speaking Time"></rd-widget-header>
+      <canvas class="chart chart-bar"
+              chart-data="totalSpeakingTime.data"
+              chart-labels="totalSpeakingTime.labels"
+              chart-options="chartOptions"
+              chart-series="totalSpeakingTime.series">
+      </canvas>
+    </rd-widget>
+  </div>
+  <div class="col-lg-6 col-xs-12">
+    <rd-widget>
+      <rd-widget-header icon="fa-users" title="Speaking Turns">
+      </rd-widget-header>
+      <canvas class="chart chart-bar" 
+              chart-data="totalSpeakingTurns.data"
+              chart-labels="totalSpeakingTurns.labels"
+              chart-options="chartOptions"
+              chart-series="totalSpeakingTurns.series">
+      </canvas>
+      <rd-widget>
+  </div>
+</div>

@@ -1,5 +1,7 @@
 {
   "/meetings/": "/meetings/",
+  "/meetings/recent": "/recent/",
+  "/meetings/stats": "/stats/",
   "/meetings/:id": "/meetings?meeting_key=:id",
   "/meetings/:id/time": "/time?meeting=:id",
   "/meetings/:id/turns": "/turns?meeting=:id"
