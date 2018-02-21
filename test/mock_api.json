@@ -87,6 +87,212 @@
     }
   ],
 
+  "chunked_time": [
+    {
+      "meeting": "PCXY94E2BZ",
+      "data": [
+        {
+          "B3JVUMWQIV": 33,
+          "IX8FUMKZBV": 19,
+          "OKIV8ZXNSX": 62,
+          "QDYIGVQV20": 72
+        },
+        {
+          "B3JVUMWQIV": 102,
+          "IX8FUMKZBV": 17,
+          "OKIV8ZXNSX": 26,
+          "QDYIGVQV20": 30
+        },
+        {
+          "B3JVUMWQIV": 18,
+          "IX8FUMKZBV": 20,
+          "OKIV8ZXNSX": 98,
+          "QDYIGVQV20": 57
+        },
+        {
+          "B3JVUMWQIV": 25,
+          "IX8FUMKZBV": 66,
+          "OKIV8ZXNSX": 88,
+          "QDYIGVQV20": 35
+        },
+        {
+          "B3JVUMWQIV": 28,
+          "IX8FUMKZBV": 29,
+          "OKIV8ZXNSX": 37,
+          "QDYIGVQV20": 45
+        },
+        {
+          "B3JVUMWQIV": 33,
+          "IX8FUMKZBV": 48,
+          "OKIV8ZXNSX": 41,
+          "QDYIGVQV20": 34
+        },
+        {
+          "B3JVUMWQIV": 42,
+          "IX8FUMKZBV": 4,
+          "OKIV8ZXNSX": 30,
+          "QDYIGVQV20": 16
+        },
+        {
+          "B3JVUMWQIV": 20,
+          "IX8FUMKZBV": 35,
+          "OKIV8ZXNSX": 34,
+          "QDYIGVQV20": 7
+        },
+        {
+          "B3JVUMWQIV": 9,
+          "IX8FUMKZBV": 4,
+          "OKIV8ZXNSX": 3,
+          "QDYIGVQV20": 8
+        }
+      ]},
+      {
+        "meeting": "KW8FIGDQMC",
+        "data": [
+          {
+            "4FNO62UHK8": 22,
+            "OKIV8ZXNSX": 193,
+            "TX1WD4759P": 41
+          },
+          {
+            "4FNO62UHK8": 36,
+            "OKIV8ZXNSX": 156,
+            "TX1WD4759P": 25
+          },
+          {
+            "4FNO62UHK8": 12,
+            "OKIV8ZXNSX": 134,
+            "TX1WD4759P": 75
+          },
+          {
+            "4FNO62UHK8": 18,
+            "OKIV8ZXNSX": 136,
+            "TX1WD4759P": 22
+          },
+          {
+            "4FNO62UHK8": 9,
+            "OKIV8ZXNSX": 75,
+            "TX1WD4759P": 101
+          },
+          {
+            "4FNO62UHK8": 8,
+            "OKIV8ZXNSX": 139,
+            "TX1WD4759P": 52
+          },
+          {
+            "4FNO62UHK8": 5,
+            "OKIV8ZXNSX": 74,
+            "TX1WD4759P": 76
+          },
+          {
+            "OKIV8ZXNSX": 8,
+            "TX1WD4759P": 2
+          }
+        ]}
+  ],
+
+  "chunked_turns": [
+    {
+      "meeting": "PCXY94E2BZ",
+      "data": [
+        {
+          "B3JVUMWQIV": 7,
+          "IX8FUMKZBV": 6,
+          "OKIV8ZXNSX": 11,
+          "QDYIGVQV20": 12
+        },
+        {
+          "B3JVUMWQIV": 10,
+          "IX8FUMKZBV": 5,
+          "OKIV8ZXNSX": 6,
+          "QDYIGVQV20": 7
+        },
+        {
+          "B3JVUMWQIV": 5,
+          "IX8FUMKZBV": 4,
+          "OKIV8ZXNSX": 10,
+          "QDYIGVQV20": 8
+        },
+        {
+          "B3JVUMWQIV": 5,
+          "IX8FUMKZBV": 9,
+          "OKIV8ZXNSX": 9,
+          "QDYIGVQV20": 5
+        },
+        {
+          "B3JVUMWQIV": 5,
+          "IX8FUMKZBV": 7,
+          "OKIV8ZXNSX": 9,
+          "QDYIGVQV20": 11
+        },
+        {
+          "B3JVUMWQIV": 6,
+          "IX8FUMKZBV": 12,
+          "OKIV8ZXNSX": 11,
+          "QDYIGVQV20": 11
+        },
+        {
+          "B3JVUMWQIV": 8,
+          "IX8FUMKZBV": 2,
+          "OKIV8ZXNSX": 10,
+          "QDYIGVQV20": 5
+        },
+        {
+          "B3JVUMWQIV": 6,
+          "IX8FUMKZBV": 9,
+          "OKIV8ZXNSX": 6,
+          "QDYIGVQV20": 2
+        },
+        {
+          "OKIV8ZXNSX": 1,
+          "QDYIGVQV20": 2
+        }
+      ]
+    },
+    {
+      "meeting": "KW8FIGDQMC",
+      "data": [
+        {
+          "4FNO62UHK8": 3,
+          "OKIV8ZXNSX": 11,
+          "TX1WD4759P": 9
+        },
+        {
+          "4FNO62UHK8": 6,
+          "OKIV8ZXNSX": 9,
+          "TX1WD4759P": 7
+        },
+        {
+          "4FNO62UHK8": 3,
+          "OKIV8ZXNSX": 19,
+          "TX1WD4759P": 8
+        },
+        {
+          "4FNO62UHK8": 5,
+          "OKIV8ZXNSX": 13,
+          "TX1WD4759P": 3
+        },
+        {
+          "4FNO62UHK8": 2,
+          "OKIV8ZXNSX": 9,
+          "TX1WD4759P": 9
+        },
+        {
+          "4FNO62UHK8": 3,
+          "OKIV8ZXNSX": 14,
+          "TX1WD4759P": 13
+        },
+        {
+          "4FNO62UHK8": 2,
+          "OKIV8ZXNSX": 18,
+          "TX1WD4759P": 11
+        },
+        { }
+      ]
+    }
+
+  ],
+
   "stats": {
     "meetingCount": 2,
     "participantCount": 7,
@@ -94,4 +300,4 @@
     "turnsTaken": 430
   }
 
-}
+    }

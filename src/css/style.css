@@ -5,3 +5,11 @@
 .widget-body {
   width: 100%;
 }
+
+.row>div .no-margin {
+  margin: 0px;
+}
+
+.chart {
+  margin-top: 10px;
+}
