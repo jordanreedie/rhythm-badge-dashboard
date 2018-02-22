@@ -1,0 +1,6 @@
+// RENAME FILE TO e.g. 'dev.js' AND REPLACE CONSTANTS WITH APPROPRIATE VALUES
+app.constant('config', {
+  apiUrl: '<API URL>',
+  apiToken: '<API TOKEN>'
+});
+
