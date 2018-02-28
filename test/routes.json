@@ -1,11 +1,10 @@
 {
   "/meetings/": "/meetings/",
   "/meetings/recent": "/recent/",
-  "/meetings/stats": "/stats/",
-  "/meetings/:id": "/meetings?meeting_key=:id",
-  "/meetings/:id/time": "/time?meeting=:id",
-  "/meetings/:id/turns": "/turns?meeting=:id",
-  "/meetings/:id/chunked_time": "/chunked_time?meeting=:id",
-  "/meetings/:id/chunked_turns": "/chunked_turns?meeting=:id"
+  "/meetings/meta/:id/": "/meetings?meeting_key=:id",
+  "/meetings/time/:id": "/time?meeting=:id",
+  "/meetings/turns/:id": "/turns?meeting=:id",
+  "/meetings/chunked_time/:id": "/chunked_time?meeting=:id",
+  "/meetings/chunked_turns/:id": "/chunked_turns?meeting=:id"
 }
 
