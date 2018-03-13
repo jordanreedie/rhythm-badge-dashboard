@@ -1,0 +1,5 @@
+angular.module('RhythmDashboard').constant('config', {
+  apiUrl: 'API_URL',
+  apiToken: 'API_TOKEN'
+});
+

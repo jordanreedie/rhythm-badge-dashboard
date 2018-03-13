@@ -16,9 +16,9 @@ Rhythm Dashboard is an open-source dashboard for visualizing processed Rhythm Ba
 
 #### PROD
 
-1. Copy src/js/config/app.config.template to src/js/config/app.config.js
-3. Set config variables in src/js/config/app.config.js to the appropriate values
+1. Copy 'env_template' to '.env'
+2. Set config variables in .env to the appropriate values
 3. Set the docker machine you wish to use (e.g. in fish `eval (docker-machine env <machine-name>)`)
-4. `docker build -t dash .'
-5. `docker run -p 80:80 -d --name <container_name> dash`
-
+4. Run the 'apply_env.sh' script
+5. `docker build -t dash .`
+6. `docker run -p 80:80 -d --name <container_name> dash`
